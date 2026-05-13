@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm [Abdalgader]
 
-<!--
-**Ba9era-dev/Ba9era-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-End Developer focused on building clean and responsive web interfaces.
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- Portfolio Website (coming soon)
+- Landing Pages
+- UI Components
+
+## 🎯 Goals
+- Improve JavaScript skills
+- Build real-world projects
+- Work as a freelance developer
+
+## 📫 Contact
+- Email:  Bagera.dev.com
+- LinkedIn: your-link
